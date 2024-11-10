@@ -35,7 +35,7 @@
 - [❤️ Contributors](#contributors)
 - [📜 Code of Conduct](#code-of-conduct)
 
-## ⚡️  Introduction
+## ⚡️ Introduction
 This repository contains frontend projects that will help you to become an ace Frontend Developer.
 
 The goal is to be well versed with HTML, CSS, JavaScript and Browser APIs such as localStorage, IndexDB, etc.
